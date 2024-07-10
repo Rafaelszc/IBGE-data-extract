@@ -6,7 +6,7 @@ Extract municipal data by <a href="https://www.ibge.gov.br/explica/codigos-dos-m
 
 This script is a web scraping code, its use all citys url in <a href="https://www.ibge.gov.br/explica/codigos-dos-municipios.php" target="_blank"> `IBGE` </a> site:
 <div class="ibge-image" align="center">
-    <img src="">
+    <img src="resources/images/ibge_example.png">
 </div>
 
 And uses all url to scrap info for the citys:
