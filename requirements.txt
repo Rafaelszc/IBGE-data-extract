@@ -1,0 +1,6 @@
+# Web Scraping Libaries
+requests        # Main libary to get sites info.
+beautifulsoup4  # Libary to format and search itens on site's HTML.
+
+# Data Manipulation
+pandas        # Powerful library for data analysis in Python.
