@@ -52,7 +52,7 @@ Depending on the modifications in the code, there is a risk of an `requests.exce
 
 1. Clone the repository
 2. Install the dependencies: Use the `pip install -r requirements.txt`
-3. Run `main.py`
+3. Run `app.py`
 
 ## Contact-me
 
